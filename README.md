@@ -1,3 +1,4 @@
+# Apache-Spark-and-Databricks-Stream-Processing-in-Lakehouse
 **Real-Time Data with Spark**
 
  This repository documents my hands-on learning journey with Apache Spark Structured Streaming and modern real-time data engineering patterns.
@@ -39,6 +40,10 @@ As data platforms evolve from batch to real time, understanding streaming archit
 3. Delta Lake
 
 4. Databricks (concepts & patterns)
+
+**Spark and source code version**
+
+This notebooks are tested in Apache Spark 3.5. and Databricks Runtime 14.1.
 
 **📌 Status**
 
